@@ -41,8 +41,4 @@ python treasure_island.py
 
 ## Resources
 
-* [Python Official Documentation](https://docs.python.org/3/) – for understanding Python basics like `print()`, `input()`, and conditional statements.
-
----
-
-Would you like me to also **add replay functionality** (so the player can restart instead of closing the program after losing), or keep it exactly as a one-shot playthrough?
+* [Python Official Documentation](https://docs.python.org/3/) for understanding Python basics like `print()`, `input()`, and conditional statements.
