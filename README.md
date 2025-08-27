@@ -6,8 +6,7 @@
 
 ## Demo
 
-*(Add a GIF, screenshot, or video of the project here)*
-![alt text](<Treasure Island.gif>)
+![alt text](<Treasure Island 2.gif>)
 
 ## How It Works
 
